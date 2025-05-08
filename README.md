@@ -37,20 +37,6 @@ Rex diz: Au au!
 
 ---
 
-## ▶️ Como Executar
-
-### ✅ Pré-requisitos
-
-- Java instalado na sua máquina (versão 8 ou superior)
-- Terminal ou prompt de comando
-- Editor de código ou IDE (opcional)
-
-### 📥 Passo a passo
-
-1. **Clone o repositório:**
-
-```bash
-git clone https://github.com/Erikitha-create/AppTestDog.git
 
 🚀 Tecnologias Utilizadas
 Java — linguagem de programação
@@ -71,3 +57,20 @@ Lógica básica de manipulação de dados
 ✍️ Autor
 Desenvolvido por Érika Fernada
 📬 e.ferlino@gmail.com
+
+---
+
+## ▶️ Como Executar
+
+### ✅ Pré-requisitos
+
+- Java instalado na sua máquina (versão 8 ou superior)
+- Terminal ou prompt de comando
+- Editor de código ou IDE (opcional)
+
+### 📥 Passo a passo
+
+1. **Clone o repositório:**
+
+```bash
+git clone https://github.com/Erikitha-create/AppTestDog.git
